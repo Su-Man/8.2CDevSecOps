@@ -208,11 +208,6 @@ To find these flaws in this application (and in your own apps), run:
 ```
 npm install -g snyk
 snyk wizard
-
-# 8.2CDevSecOps
-
-
-
 ```
 
 In this application, the default `snyk wizard` answers will fix all the issues.
