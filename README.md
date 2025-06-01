@@ -208,7 +208,15 @@ To find these flaws in this application (and in your own apps), run:
 ```
 npm install -g snyk
 snyk wizard
+
+# 8.2CDevSecOps
+
+
+
 ```
 
 In this application, the default `snyk wizard` answers will fix all the issues.
 When the wizard is done, restart the application and run the exploits again to confirm they are fixed.
+
+<!-- Triggered Jenkins pipeline automatically for Task 1 demo -->
+
